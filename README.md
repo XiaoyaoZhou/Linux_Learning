@@ -1,4 +1,4 @@
 # Linux_Learning
 Basci knowledge for Linux
 
-My sing on April 27, 
+My sharing on April 27, 
